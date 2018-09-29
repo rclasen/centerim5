@@ -1,0 +1,13 @@
+Source: centerim5
+Section: net
+Priority: optional
+Maintainer: Rainer Clasen <bj@zuto.de>
+Build-Depends: debhelper (>= 9), autotools-dev, autoconf, automake, libtool, autopoint, gettext, pkg-config, make, g++, libglib2.0-dev, libpurple-dev, libsigc++-2.0-dev, libncursesw5-dev
+Standards-Version: 3.9.5
+Homepage: https://www.centerim.org/
+
+Package: centerim5
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: text-mode multi-protocol instant messaging client
+ based on libpurple (=pidgin)

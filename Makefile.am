@@ -1,6 +1,6 @@
 ACLOCAL_AMFLAGS = -I m4
 
-SUBDIRS = contrib cppconsui doc misc plugins po src tests
+SUBDIRS = contrib cppconsui doc misc plugins po src
 
 EXTRA_DIST = \
 	HACKING \

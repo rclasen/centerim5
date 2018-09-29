@@ -1,0 +1,6 @@
+*.log
+*.debhelper
+*.substvars
+centerim5/
+files
+
