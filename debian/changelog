@@ -1,3 +1,10 @@
+centerim5 (5.0.2~1) UNRELEASED; urgency=medium
+
+  * always write colors
+  * line movements
+
+ -- Rainer Clasen <bj@zuto.de>  Sat, 29 Sep 2018 18:34:18 +0200
+
 centerim5 (5.0.1) unstable; urgency=low
 
   * Initial Release.
